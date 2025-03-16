@@ -15,6 +15,12 @@ This project implements a Retrieval Augmented Generation (RAG) system, which com
 
 ## How to Use the RAG System
 
+first of all you have to install the requirements:
+
+```bash
+pip install -r requirements.txt
+```
+
 ### 1. Index Your Documents
 
 This process:
